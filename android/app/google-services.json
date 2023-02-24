@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "504108761199",
+    "project_id": "mulukenapp",
+    "storage_bucket": "mulukenapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504108761199:android:11e860721eb7633e998d9a",
+        "android_client_info": {
+          "package_name": "com.example.mulukenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504108761199-qjksta848lfpmemirsu827bkq58gi5ov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mulukenapp",
+            "certificate_hash": "0c6536bb4f2b8107b0020806eef200648a9baeee"
+          }
+        },
+        {
+          "client_id": "504108761199-b3o14f2qto7tshnd6jimcfcorl6m9gqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa_UmVu4rMRBCHwtTT7YogvQ9kM5QqTrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504108761199-b3o14f2qto7tshnd6jimcfcorl6m9gqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

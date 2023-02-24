@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">504108761199-b3o14f2qto7tshnd6jimcfcorl6m9gqf.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">504108761199</string>
+    <string name="google_api_key" translatable="false">AIzaSyCa_UmVu4rMRBCHwtTT7YogvQ9kM5QqTrI</string>
+    <string name="google_app_id" translatable="false">1:504108761199:android:11e860721eb7633e998d9a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCa_UmVu4rMRBCHwtTT7YogvQ9kM5QqTrI</string>
+    <string name="google_storage_bucket" translatable="false">mulukenapp.appspot.com</string>
+    <string name="project_id" translatable="false">mulukenapp</string>
+</resources>
